@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "guanlecoja": "~0.8.0",
-    "gulp": "3.9.1",
+    "gulp": "4.0.0",
     "gulp-shell": "^0.4.1",
     "http-proxy": "^1.11.1",
     "minimist": "^1.1.1"
